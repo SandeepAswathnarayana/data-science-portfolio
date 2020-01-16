@@ -10,3 +10,7 @@ I have read/watched quite a few noteworthy blogs/videos on building data science
 When you’ve given the same in-person advice 3 times, write a **blog post**." - @drob
 
 
+Medium article by @GalarnykMichael:
+https://towardsdatascience.com/how-to-build-a-data-science-portfolio-5f566517c79c
+
+
