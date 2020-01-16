@@ -1,5 +1,5 @@
 # data-science-portfolio
-**how to have a portfolio of public evidence of your data science skills**
+**Dos & Don'ts To Have A Portfolio Of Public Evidence Of Your Data Science Skills and Meaningful Projects**
 
 
 
