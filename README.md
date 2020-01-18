@@ -14,7 +14,7 @@ Medium article by @GalarnykMichael:
 https://towardsdatascience.com/how-to-build-a-data-science-portfolio-5f566517c79c
 
 
-Other Noteworthy Resources That Complement The Repository:
+**Other Noteworthy Resources That Complement The Repository:**
 https://medium.com/@jasonkgoodman/advice-on-building-data-portfolio-projects-c5f96d8a0627
 
 https://www.dataquest.io/blog/build-a-data-science-portfolio/
