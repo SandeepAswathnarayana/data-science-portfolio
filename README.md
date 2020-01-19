@@ -22,3 +22,7 @@ https://www.dataquest.io/blog/build-a-data-science-portfolio/
 https://www.dataquest.io/blog/career-guide-data-science-projects-portfolio/
 
 
+**Data Science Interview Preparation/Career Guide:**
+https://medium.com/better-programming/the-data-science-interview-study-guide-c3824cb76c2e
+
+
