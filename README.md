@@ -25,6 +25,12 @@ https://www.dataquest.io/blog/career-guide-data-science-projects-portfolio/
 **Data Science Interview Preparation/Career Guide:**
 https://medium.com/better-programming/the-data-science-interview-study-guide-c3824cb76c2e
 
+https://nbviewer.jupyter.org/github/SandeepAswathnarayana/data-science-portfolio/blob/master/109%20DS%20Interview%20Questions%20and%20Answers_Springboard.pdf
+
+https://nbviewer.jupyter.org/github/SandeepAswathnarayana/data-science-portfolio/blob/master/A%20Beginner%27s%20Guide%20To%20Getting%20Your%20First%20Data%20Science%20Job_Springboard.pdf
+
+https://nbviewer.jupyter.org/github/SandeepAswathnarayana/data-science-portfolio/blob/master/Ultimate%20Guide%20To%20Data%20Science%20Interviews_Springboard.pdf
+
 
 
 
