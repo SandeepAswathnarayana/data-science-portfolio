@@ -1,0 +1,85 @@
+Datasets/data of interest for research:
+https://ai.google/tools/datasets/
+
+DL Coursera by Geoffrey Hinton:
+https://www.cs.toronto.edu/~hinton/coursera_lectures.html
+
+
+
+
+
+ML/DL Researchers: (random list)
+
+Yann LeCun:
+http://yann.lecun.com/
+
+Jitendra Malik:
+https://people.eecs.berkeley.edu/~malik/
+
+Li Deng:
+https://lidengsite.wordpress.com/
+
+George E. Dahl:
+http://www.cs.toronto.edu/~gdahl/
+
+Navdeep Jaitly:
+http://www.cs.toronto.edu/~ndjaitly/
+
+Subhashini Venugopalan:
+http://www.cs.utexas.edu/users/ai-lab/?VenugopalanSubhashini
+
+Markand Tapaswi:
+https://www.linkedin.com/in/makarand-tapaswi/
+
+Sam Finlayson:
+https://sgfin.github.io/
+
+Lily Peng:
+https://ai.google/research/people/LilyPeng
+
+Diabetic Retinopathy:
+https://about.google/stories/seeingpotential/
+
+Balaji Lakshminarayanan:
+http://www.gatsby.ucl.ac.uk/~balaji/
+
+Sanyam Bhutani:
+https://www.linkedin.com/in/sanyambhutani?originalSubdomain=in
+
+Alexandre Cadrin-Chênevert:
+https://forums.fast.ai/u/alexandrecc
+
+Natasha Jaques:
+https://www.media.mit.edu/people/jaquesn/overview/
+
+Prasoon Goyal:
+https://www.cs.utexas.edu/~pgoyal/
+
+Anush Sankaran:
+https://goodboyanush.github.io/
+
+Jayashree Mohan:
+https://www.cs.utexas.edu/~jaya/
+
+Rajarshi Das:
+http://rajarshd.github.io/
+
+
+
+
+
+At 'The Foundations of DL' seminar: "If you're obsessed with only being one correct answer, and you're being able to prove you get it - then Backpropagation is not for you. Nor is Life" ;)
+
+At present (a neural net): a neuron has some weights, and it looks at how the weights relate to the activities in the layer below do they fit.
+What it should be doing: getting activities to make predictions saying to two sets of predictions fit. This is much more powerful.
+(turns out, one of his female grad student has done this in 2016/17 at UoT).
+
+The AI Revolution: Toronto Global Forum 2019:
+To save the planet, we need to make solar panels more efficient and to do that we need nanotechnology. DL is now used to predicting the properties of materials. Better carbon capture, better batteries.
+Improving the efficiency of the use of the electricity and using forecasting to be able to use the renewables more efficiently. Used in better climate models, coz it's very hard to predict the future that is changing.
+
+With medical data, there's a big trade-off. Say, I am going to get much better medical treatment if you can use a lot of data to make predictions. 'Blockchain' plays a key role in helping an individual control his/her own data and make decisions.
+
+
+
+
