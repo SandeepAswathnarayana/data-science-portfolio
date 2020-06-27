@@ -2,15 +2,15 @@
 1. No “I” (first person). Use adjectives and attributes to humanize your resume.
 
 2. Order:
-Professional Summary (PS)
-Core Competencies and Achievements (CCA)
-Professional Experience (PE)
-Education (E)
-Certifications/Professional Training
+Professional Summary (PS),
+Core Competencies and Achievements (CCA),
+Professional Experience (PE),
+Education (E),
+Certifications/Professional Training,
 Awards/Volunteer Work
 
 3. Length: 2 pages EXCEPT-
-Freshers/Recent grads, <6 years experience - 1 page
+Freshers/Recent grads, <6 years experience - 1 page  
 C-Suite, Military, Medical, Legal, Project Management - 2 pages+
 
 4. Fonts: Times New Roman/Arial etc
@@ -32,11 +32,11 @@ Name, phone, email, LinkedIn URL, City State
 10. For ATS compliance see previous KB by Kirsty Bonner posts on LinkedIn
 
 11. Freshers/Recent grads your order:
-PS
-CCA
-E
-PE or Internships
-Volunteer work
+PS  
+CCA  
+E  
+PE or Internships  
+Volunteer work  
 
 ## ATS - Optimize Your Resume Keywords  
 If you want the Applicant Tracking System (ATS) to “read” your resume successfully, then omit or remove 1 through 16.  
