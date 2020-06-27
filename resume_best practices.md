@@ -1,3 +1,4 @@
+## Resources  
 [KB by Kristy Bonner](https://www.linkedin.com/company/kb-by-kirsty-bonner/)  
 
 ## Resume Template  
