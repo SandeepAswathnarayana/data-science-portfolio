@@ -18,5 +18,5 @@ If you want the Applicant Tracking System (ATS) to “read” your resume succes
 15. Photos
 16. Font size less than 11 points
 
-Don’t forget that once the resume has passed formatting inspection, it is then looking for KEYWORDS relevant to the job description. You can copy/paste the job description into [TagCrowd](https://tagcrowd.com/) to identify these.  
-Optimize your resume keywords using [Jobscan](https://www.jobscan.co/)  
+- Don’t forget that once the resume has passed formatting inspection, it is then looking for KEYWORDS relevant to the job description. You can copy/paste the job description into **[TagCrowd](https://tagcrowd.com/)** to identify these.  
+- Optimize your resume keywords using **[Jobscan](https://www.jobscan.co/)**. ATS Software and resume checker to surface candidates that best match the position and job description.  
