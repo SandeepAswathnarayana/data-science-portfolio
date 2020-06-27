@@ -34,7 +34,7 @@ Name, phone, email, LinkedIn URL, City State
 
 10. For ATS compliance see previous KB by Kirsty Bonner posts on LinkedIn
 
-11. Freshers/Recent grads your order:
+11. Freshers/Recent grads your order:  
 PS  
 CCA  
 E  
