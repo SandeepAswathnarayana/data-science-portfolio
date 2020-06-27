@@ -1,3 +1,5 @@
+[KB by Kristy Bonner](https://www.linkedin.com/company/kb-by-kirsty-bonner/)  
+
 ## Resume Template  
 1. No “I” (first person). Use adjectives and attributes to humanize your resume.
 
