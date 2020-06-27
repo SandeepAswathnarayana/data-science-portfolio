@@ -64,6 +64,6 @@ If you want the Applicant Tracking System (ATS) to “read” your resume succes
 - Optimize your resume keywords using **[Jobscan](https://www.jobscan.co/)**. ATS Software and resume checker to surface candidates that best match the position and job description.  
 
 ## Other  
-[Resume, Meet the Computer: Top Formatting Tips for ATS](https://www.linkedin.com/pulse/resume-meet-computer-top-formatting-tips-ats-russell-abbatiello/)  
+[Resume, Meet the Computer: Top Formatting Tips for ATS](https://www.linkedin.com/pulse/resume-meet-computer-top-formatting-tips-ats-russell-abbatiello/) by [Russell Abbatiello](https://www.linkedin.com/in/russellabbatiello/)  
 
 
