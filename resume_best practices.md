@@ -62,3 +62,8 @@ If you want the Applicant Tracking System (ATS) to “read” your resume succes
 
 - Don’t forget that once the resume has passed formatting inspection, it is then looking for KEYWORDS relevant to the job description. You can copy/paste the job description into **[TagCrowd](https://tagcrowd.com/)** to identify these.  
 - Optimize your resume keywords using **[Jobscan](https://www.jobscan.co/)**. ATS Software and resume checker to surface candidates that best match the position and job description.  
+
+## Other  
+[Resume, Meet the Computer: Top Formatting Tips for ATS](https://www.linkedin.com/pulse/resume-meet-computer-top-formatting-tips-ats-russell-abbatiello/)  
+
+
