@@ -2,6 +2,8 @@
 
 [Aparna Soni](http://www.aparnagsoni.com/)  
 
+[Angela Bassa](https://www.angelabassa.com/)  
+
 [Vatsal Srivastava](https://sites.google.com/view/vatsalbits/education)  
 - MOOCs, udacity nanodegrees, Georgia Tech. etc.  
 
