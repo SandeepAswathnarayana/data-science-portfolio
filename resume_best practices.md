@@ -66,4 +66,6 @@ If you want the Applicant Tracking System (ATS) to “read” your resume succes
 ## Other  
 [Resume, Meet the Computer: Top Formatting Tips for ATS](https://www.linkedin.com/pulse/resume-meet-computer-top-formatting-tips-ats-russell-abbatiello/) by [Russell Abbatiello](https://www.linkedin.com/in/russellabbatiello/)  
 
+[Action Verbs for Resume](https://resumelab.com/resume/words)  
+Also, google search " resume action verbs for software developer"  
 
